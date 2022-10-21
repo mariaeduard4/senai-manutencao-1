@@ -10,10 +10,11 @@
             margin-top: 0;
         }
         table tr td:last-child a{
-            margin-right: 5px;
+            margin-right: 10px;
         }
         body {
-            font-size: 14px;
+            font-size: 30px;
+            /* eai sor, blz? vlw flw */
         }
     </style>
 </head>
